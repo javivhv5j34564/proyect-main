@@ -1,0 +1,110 @@
+1. Chatbots, Asistentes y Buscadores (Multimodales)
+ChatGPT (OpenAI) – El estándar para texto, visión y datos.
+Claude (Anthropic) – Escritura natural y gran capacidad de razonamiento.
+Gemini (Google) – Integración con Google Workspace y ventana de contexto gigante.
+Perplexity AI – Buscador en tiempo real con fuentes citadas.
+Microsoft Copilot – IA integrada en Windows y Office.
+Mistral AI – Modelo europeo potente y eficiente (Open Source).
+Llama 3 (Meta) – El modelo abierto más usado por desarrolladores.
+Character.ai – Chat con personajes históricos o de ficción.
+Pi (Inflection) – Un asistente enfocado en la inteligencia emocional.
+Grok (xAI) – La IA de Elon Musk integrada en X (Twitter).
+2. Imagen, Diseño y Generación de Arte
+Midjourney – Máxima calidad artística visual.
+DALL-E 3 – Generación de imágenes precisa desde el chat.
+Stable Diffusion – Control total y ejecución en local.
+Adobe Firefly – Edición y relleno generativo profesional.
+Canva Magic Studio – Diseño gráfico asistido para no diseñadores.
+Leonardo.ai – Plataforma versátil con modelos especializados.
+Krea.ai – Generación y mejora de imagen en tiempo real.
+Magnific AI – El mejor reescalador (upscaler) de alta definición.
+Recraft.ai – Generación de vectores (.svg) e iconos.
+Looka – Creación de logos y branding completo.
+Uizard – Convierte bocetos en prototipos de apps.
+Framer AI – Generación de sitios web completos desde texto.
+Relume – Estructura y sitemap de webs mediante IA.
+3. Video y Animación
+Runway (Gen-3) – Generación de video hiperrealista.
+Luma Dream Machine – Creación de clips con física coherente.
+HeyGen – Avatares que hablan y traducción de video con lip-sync.
+Sora (OpenAI) – Video cinemático de alta duración (en despliegue).
+Pika Labs – Animaciones y efectos visuales creativos.
+Kling AI – Generador de video de alta calidad (competencia de Sora).
+Synthesia – Videos corporativos con presentadores virtuales.
+InVideo AI – Crea videos para YouTube/TikTok desde un prompt.
+Wonder Dynamics – Reemplaza personas por personajes 3D en video.
+Kaiber – Videos musicales y efectos de transformación.
+Captions.ai – Subtítulos automáticos y edición de clips virales.
+Descript – Editor de video basado en texto (transcripción).
+4. Programación (Coding) y No-Code
+GitHub Copilot – Autocompletado de código líder.
+Cursor – El editor de código (IDE) más avanzado con IA.
+Replit Agent – Construye y despliega apps completas solo pidiéndolo.
+Bolt.new – Desarrollo web full-stack en el navegador.
+V0.dev – Generación de interfaces (UI) en React.
+Lovable – Creación de aplicaciones web complejas sin código.
+Anima – Convierte diseños de Figma a código funcional.
+Blackbox AI – Búsqueda y sugerencia de código ultra rápida.
+Tabnine – Alternativa privada para desarrollo empresarial.
+Sourcegraph Cody – Asistente para entender bases de código gigantes.
+5. Escritura, Productividad y Oficina
+Notion AI – Gestión de proyectos y redacción integrada.
+Jasper – IA para marketing de contenidos y blogs.
+Copy.ai – Redacción de textos de venta y anuncios.
+Writesonic – SEO y artículos optimizados para Google.
+Grammarly AI – Corrector de estilo y tono avanzado.
+Quillbot – El mejor parafraseador de textos.
+DeepL Write – Mejora la gramática y naturalidad en varios idiomas.
+Gamma AI – Generador automático de presentaciones (PPT).
+Beautiful.ai – Diseño de diapositivas inteligente.
+Otter.ai – Transcripción y resumen de reuniones.
+Fireflies.ai – Graba y analiza videollamadas automáticamente.
+Motion – Calendario inteligente que prioriza tus tareas.
+Reclaim.ai – Optimización de agendas para equipos.
+6. Investigación Académica y Análisis de Datos
+NotebookLM (Google) – Análisis profundo de tus propios documentos.
+Consensus – Buscador de respuestas en estudios científicos.
+Elicit – Automatiza la revisión de literatura académica.
+Scite.ai – Verifica citas y veracidad científica.
+ChatPDF – Interactúa con cualquier archivo PDF.
+Julius AI – Análisis de datos y estadísticas desde Excel.
+Genei – Resumen de artículos y gestión de investigación.
+Rose.ai – Plataforma de datos económicos y financieros.
+7. Audio, Voz y Música
+ElevenLabs – Clonación de voz y texto a voz realista.
+Suno AI – Creación de canciones completas con letra y voz.
+Udio – Generador de música de alta fidelidad.
+Adobe Podcast – Limpieza de audio profesional.
+Speechify – Convierte texto en audiolibros con voces naturales.
+Moises.ai – Separa instrumentos y voces de canciones.
+LALAL.AI – Extracción de pistas de audio (stems).
+Soundraw – Música de fondo personalizable para creadores.
+VoiceMod – Transformación de voz en tiempo real.
+8. Automatización y Agentes
+Zapier Central – Crea agentes que ejecutan tareas entre apps.
+Make – Automatización visual compleja de flujos de trabajo.
+n8n – Automatización técnica para desarrolladores.
+Glean – El buscador inteligente para datos internos de empresas.
+MindOS – Creación de agentes autónomos personalizados.
+9. Herramientas de Marketing y Ventas
+AdCreative.ai – Generación de banners publicitarios.
+Apollo.ai – Prospección de clientes y correos de ventas.
+Ocoya – Gestión de redes sociales y creación de posts.
+Brand24 – Monitorización de reputación online.
+Typeform Formless – Formularios conversacionales con IA.
+10. Utilidades Especializadas y Misceláneas
+Topaz Video AI – Restauración y escalado de video antiguo.
+Vectary – Diseño y renderizado 3D.
+Nomic Atlas – Visualización de grandes conjuntos de datos.
+Humata AI – Análisis de documentos técnicos legales o médicos.
+Tome – Narrativa visual y storytelling para empresas.
+Eightify – Resúmenes instantáneos de videos de YouTube.
+Monica – Extensión de navegador "todo en uno" (Chat + Resumen).
+Hugging Face – La biblioteca más grande de modelos de IA.
+Civitai – Comunidad de modelos para Stable Diffusion.
+Poindexter – IA para proyecciones financieras de startups.
+Feedly Leo – Curación de noticias impulsada por IA.
+Scribe – Crea guías de usuario automáticas grabando tu pantalla.
+Heckfree – Humanizador de textos generados por IA.
+D-ID – Animación de fotos para convertirlas en presentadores.
+Mem.ai – Organización de notas y conocimiento personal.
